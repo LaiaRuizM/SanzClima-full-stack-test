@@ -14,6 +14,10 @@ const links = [
     label: "Calc",
     route: "/calc",
   },
+  {
+    label: "History",
+    route: "/history",
+  },
 ];
 
 export default function RootLayout({ children }) {
