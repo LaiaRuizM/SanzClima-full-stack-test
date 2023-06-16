@@ -1,5 +1,5 @@
 <p align="center" style="margin-center:10%">
-<img src="./LaiaRuiz.png" alt="Laia" width="220" height="150"/>
+<img src="../images/LaiaRuiz.png" alt="Laia" width="220" height="150"/>
 </p>
 
 <p align="center" style="margin-center:8%"> If you want to see the project: https://laiaruizm.github.io/SanzClima-full-stack-test
@@ -12,7 +12,7 @@
 
 ## -- About this project 🙋🏼‍♀️ --
 
-- In this version both calc and history are a page endpoints, not ajax endpoints.
+- In this version both calc and history are a page endpoints, not Ajax endpoints.
 - This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## -- Table of contents --
@@ -35,7 +35,7 @@
 
 ### Further implementations
 
-- In future versions this can be expanded to both be ajax endpoints and being consumed from a main page.
+- In future versions this can be expanded to both be Ajax endpoints and being consumed from a main page.
 
 ## Project's process
 
