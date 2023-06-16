@@ -12,6 +12,7 @@
 
 ## -- About this project 🙋🏼‍♀️ --
 
+- This project consists in building a Full-Stack web app to **calculate all numeric params in a list** where users will be able to see all previous queries too.
 - **In this version both calc and history are a page endpoints, not Ajax endpoints**.
 - This project uses **version 13**. The folder `\pages` is the previous way to create app Routes, like endpoints (Example: pages->api->hello.js = it's an endpoint). This has not been migrated to the app folder. To use this version I removed the `\pages` folder and instead I have created the `\app` folder, which is the new way to create routes.
 - This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
