@@ -1,3 +1,7 @@
+"use client";
 export default function HistoryPage() {
-  return <h1>This is the history page test</h1>;
+  const storedData = localStorage.getItem("myData");
+  return (
+    <h1>This is the history page test: {localStorage.getItem("myData")}</h1>
+  );
 }

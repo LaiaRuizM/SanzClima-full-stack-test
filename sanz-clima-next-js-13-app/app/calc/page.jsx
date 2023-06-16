@@ -1,8 +1,13 @@
+"use client";
+import { useEffect, useState } from "react";
 CalcPage.getInitialProps = async ctx => {
   return ctx.req.url;
 };
 
 export default function CalcPage(url) {
+  useEffect(() => {
+    localStorage.setItem("myData", JSON.stringify(url.searchParams));
+  }, [url.searchParams]);
   const paramValues = Object.values(url.searchParams);
   const stringParamValues = JSON.stringify(paramValues);
 
