@@ -1,0 +1,16 @@
+.header {
+  border-radius: 4px;
+  padding: 4px;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(rgb(131, 174, 235), rgb(238, 235, 235));
+  color: black;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  text-decoration: none;
+}
