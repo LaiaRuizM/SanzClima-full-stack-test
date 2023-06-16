@@ -1,8 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center" style="margin-center:10%">
+<img src="./LaiaRuiz.png" alt="Laia" width="220" height="150"/>
+</p>
 
-## Getting Started
+<p align="center" style="margin-center:8%"> If you want to see the project: https://laiaruizm.github.io/SanzClima-full-stack-test
+</p>
 
-First, run the development server:
+# SANZ CLIMA | TECHNICAL TEST
+
+- Hi there people! 👋🏻
+- My name is Laia Ruiz Martínez and this is **Sanz Clima's full stack test**.
+
+## -- About this project 🙋🏼‍♀️ --
+
+- In this version both calc and history are a page endpoints, not ajax endpoints.
+- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## -- Table of contents --
+
+- [Overview](#overview)
+  - [Links](#links)
+  - [Further implementations](#further-implementations)
+- [Project's process](#projects-process)
+  <!-- - [Organization](#organization) -->
+  - [Built with programming languages & tools 🛠️](#built-with)
+  - [Setup for getting started](#setup)
+- [Author](#author)
+
+## Overview
+
+### Links
+
+- Live code: [https://github.dev/LaiaRuizM/SanzClima-full-stack-test](https://github.dev/LaiaRuizM/SanzClima-full-stack-test)
+- Project's website: [https://laiaruizm.github.io/SanzClima-full-stack-test/](https://laiaruizm.github.io/SanzClima-full-stack-test/)
+
+### Further implementations
+
+- In future versions this can be expanded to both be ajax endpoints and being consumed from a main page.
+
+## Project's process
+
+<!-- ### Organization -->
+
+<!-- <p align="center" style="margin-center:8%">
+<img src="./src/images/" alt=""/>
+</p> -->
+
+### Built with
+
+- HTML
+- CSS
+- Next.JS
+- React.JS
+- VISUAL STUDIO CODE (VSC) 🗄️
+- HTML 📌
+- CSS 🖌️
+- NEXTJS ⚡️
+- GIT / GITHUB 📂
+
+### Setup
+
+1. Clone the repo:
+   `git clone https://laiaruizm.github.io/SanzClima-full-stack-test`
+
+1. Install NPM packages:
+   `npm install`
+
+1. Start the project, run the development server:
 
 ```bash
 npm run dev
@@ -14,25 +77,14 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Author
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+💡 If you want to contact me for any suggestion, doubts, contributions, PullRequest. Feel free to ask me if you have any question or curiosity:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Email: [laia.ruizm@hotmail.com](laia.ruizm@hotmail.com)
+- Linkedin: [https://www.linkedin.com/in/laia-ruiz-martínez/](https://www.linkedin.com/in/laia-ruiz-martínez/)
+- GitHub: [https://github.com/LaiaRuizM](https://github.com/LaiaRuizM)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+«All you need is attitude. Aim for the stars so that if you miss, you will still get to the moon». 🙋🏼‍♀️
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Made with 💙 by [Laia](https://github.com/LaiaRuizM)
