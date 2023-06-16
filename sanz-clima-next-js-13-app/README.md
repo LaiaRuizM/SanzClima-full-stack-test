@@ -1,5 +1,5 @@
 <p align="center" style="margin-center:10%">
-<img src="../images/LaiaRuiz.png" alt="Laia" width="220" height="150"/>
+<img src="./images/LaiaRuiz.png" alt="Laia" width="220" height="150"/>
 </p>
 
 <p align="center" style="margin-center:8%"> If you want to see the project: https://laiaruizm.github.io/SanzClima-full-stack-test
