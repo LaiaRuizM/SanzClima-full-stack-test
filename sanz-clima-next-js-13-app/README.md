@@ -40,7 +40,7 @@
 
 ## Project's process
 
-### Organization -->
+### Organization
 
 <p align="center" style="margin-center:8%">
 <img src="./images/organization.png" alt="Test organization ideas"/>
