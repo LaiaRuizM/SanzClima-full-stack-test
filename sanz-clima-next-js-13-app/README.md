@@ -1,5 +1,5 @@
-<p align="center" style="margin-center:10%">
-<img src="./images/LaiaRuiz.png" alt="Laia" width="220" height="150"/>
+<p align="center" style="margin-center:8%">
+<img src="./images/LaiaRuiz.png" alt="Laia" width="280"/>
 </p>
 
 <p align="center" style="margin-center:8%"> If you want to see the project: https://laiaruizm.github.io/SanzClima-full-stack-test
@@ -12,7 +12,8 @@
 
 ## -- About this project 🙋🏼‍♀️ --
 
-- In this version both calc and history are a page endpoints, not Ajax endpoints.
+- **In this version both calc and history are a page endpoints, not Ajax endpoints**.
+- This project uses **version 13**. The folder `\pages` is the previous way to create app Routes, like endpoints (Example: pages->api->hello.js = it's an endpoint). This has not been migrated to the app folder. To use this version I removed the `\pages` folder and instead I have created the `\app` folder, which is the new way to create routes.
 - This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## -- Table of contents --
@@ -21,7 +22,7 @@
   - [Links](#links)
   - [Further implementations](#further-implementations)
 - [Project's process](#projects-process)
-  <!-- - [Organization](#organization) -->
+  - [Organization](#organization)
   - [Built with programming languages & tools 🛠️](#built-with)
   - [Setup for getting started](#setup)
 - [Author](#author)
@@ -39,11 +40,11 @@
 
 ## Project's process
 
-<!-- ### Organization -->
+### Organization -->
 
-<!-- <p align="center" style="margin-center:8%">
-<img src="./src/images/" alt=""/>
-</p> -->
+<p align="center" style="margin-center:8%">
+<img src="./images/organization.png" alt="Test organization ideas"/>
+</p>
 
 ### Built with
 
