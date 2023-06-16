@@ -2,7 +2,7 @@
 <img src="./images/LaiaRuiz.png" alt="Laia" width="280"/>
 </p>
 
-<p align="center" style="margin-center:8%"> If you want to see the project: https://laiaruizm.github.io/SanzClima-full-stack-test
+<p align="center" style="margin-center:8%"> If you want to clone the project: https://github.com/LaiaRuizM/SanzClima-full-stack-test.git
 </p>
 
 # SANZ CLIMA | TECHNICAL TEST
@@ -32,7 +32,7 @@
 ### Links
 
 - Live code: [https://github.dev/LaiaRuizM/SanzClima-full-stack-test](https://github.dev/LaiaRuizM/SanzClima-full-stack-test)
-- Project's website: [https://laiaruizm.github.io/SanzClima-full-stack-test/](https://laiaruizm.github.io/SanzClima-full-stack-test/)
+- Project's GitHub website: [https://github.com/LaiaRuizM/SanzClima-full-stack-test](https://github.com/LaiaRuizM/SanzClima-full-stack-test)
 
 ### Further implementations
 
@@ -57,11 +57,12 @@
 - CSS 🖌️
 - NEXTJS ⚡️
 - GIT / GITHUB 📂
+- Versel 💻
 
 ### Setup
 
 1. Clone the repo:
-   `git clone https://laiaruizm.github.io/SanzClima-full-stack-test`
+   `git clone https://github.com/LaiaRuizM/SanzClima-full-stack-test.git`
 
 1. Install NPM packages:
    `npm install`
